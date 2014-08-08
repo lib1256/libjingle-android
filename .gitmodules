@@ -4,7 +4,7 @@
 	ignore = untracked
 [submodule "submodules/externals/srtp"]
 	path = submodules/externals/srtp
-	url = git://git.linphone.org/srtp.git
+	url =  https://android.googlesource.com/platform/external/srtp
 	ignore = untracked
 [submodule "submodules/externals/libjingle"]
 	path = submodules/externals/libjingle
