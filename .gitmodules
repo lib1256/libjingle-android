@@ -1,6 +1,6 @@
 [submodule "submodules/externals/openssl"]
 	path = submodules/externals/openssl
-	url = git://git.linphone.org/android-openssl.git
+	url = https://android.googlesource.com/platform/external/openssl
 	ignore = untracked
 [submodule "submodules/externals/srtp"]
 	path = submodules/externals/srtp
