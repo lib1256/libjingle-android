@@ -8,7 +8,7 @@
 	ignore = untracked
 [submodule "submodules/externals/libjingle"]
 	path = submodules/externals/libjingle
-	url = git://github.com/dmonakhov/libjingle.git
+	url = https://github.com/dmonakhov/libjingle
 	ignore = untracked
 [submodule "submodules/externals/gtest"]
 	path = submodules/externals/gtest
